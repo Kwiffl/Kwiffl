@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Minecraft Fabric-Modding <br>🌱 I’m currently learning Lua(u) + Java<br>⚡ Fun fact: I started programming about a Year ago. 
+🔭   I’m currently working on C++ (OpenGL) <br>🌱   I’m currently learning C++ <br>⚡   Fun fact: Business Cat 
 
 
 # 💻 Tech Stack:
