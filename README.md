@@ -17,4 +17,4 @@ I mainly use **React Native** for developing and shipping applications on both *
 Whenever I get an idea for an application - There is a high chance I will build **systems, elements or sections instead** of a complete application for practice.
 
 I have previous experience in Roblox Development:
-&nbsp;&nbsp;&nbsp;&nbsp;• Which utilizes the language **Luau** (A fork of Lua)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;• Which utilizes the language **Luau** (A fork of Lua)
