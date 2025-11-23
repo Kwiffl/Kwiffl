@@ -6,6 +6,6 @@ I mostly work with **Frontend development**, including **CSS**, **HTML**, and **
 
 This profile is for displaying current projects and small, sprouting ideas, including:
 
->> • Elements  
->> • Systems  
->> • Complete Applications
+&nbsp;&nbsp;&nbsp;&nbsp;• Elements  
+&nbsp;&nbsp;&nbsp;&nbsp;• Systems  
+&nbsp;&nbsp;&nbsp;&nbsp;• Complete Applications
