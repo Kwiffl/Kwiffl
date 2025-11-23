@@ -1,4 +1,4 @@
-<title> Hello, 👋 </title>
+## Hello, 👋
 <br> Im Kwiffl - an application engineer who aspires to develop apps that contribute to day-to-day life.
 <br>
 <br> I mostly work with Frontend development, including CSS, HTML and TypeScript - of which I am currently exploring
