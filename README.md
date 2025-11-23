@@ -3,4 +3,4 @@
 <br>
 <br> I mostly work with Frontend development, including CSS, HTML and TypeScript - of which I am currently exploring
 <br>
-<br> This profile is for displaying current projects and small, sprouting ideas including: <br>     • Elements <br>     • Systems <br>     • Complete Applications
+<br> This profile is for displaying current projects and small, sprouting ideas including: <br>  • Elements <br>    • Systems <br>    • Complete Applications
