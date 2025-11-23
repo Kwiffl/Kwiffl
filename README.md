@@ -13,7 +13,7 @@ This profile is for displaying current projects and small, sprouting ideas, incl
 ## Information 📌
 
 I mainly use **React Native** for developing and shipping applications on both **iOS** and **Android**
-I also use **React.js** for building web applications
+<br>I also use **React.js** for building web applications
 
 Whenever I get an idea for an application - There is a high chance I will build **systems, elements or sections instead** of a complete application for practice.
 
