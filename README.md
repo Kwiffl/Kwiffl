@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello, 👋
 
 I'm **Kwiffl** — an application engineer who aspires to develop apps that contribute to day-to-day life.
 
